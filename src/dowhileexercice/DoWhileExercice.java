@@ -8,9 +8,9 @@ public class DoWhileExercice {
     public static void main(String[] args) {
         int contador =0;
         do{
-            System.out.println("estoy en vuelta # "+ (contador + 1));
+            System.out.println("This is my  # "+ (contador + 1) + " round.");
             contador ++;
-        }while(contador <10);
+        }while(contador <8);
     }
     
 }
